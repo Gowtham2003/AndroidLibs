@@ -1,6 +1,5 @@
 # AndroidLibs
 
----
 
 ##### Some Famous Libraries That Will Help Your Workflow 
 
