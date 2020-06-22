@@ -1,4 +1,4 @@
-# AndroidLibs
+# AndroidLibs (In Development)
 
 
 ##### Some Famous Libraries That Will Help Your Workflow 
@@ -13,12 +13,16 @@
 
 Image Loading
 
-##### Glide
+#### Glide
 
-##### Picasso
+https://bumptech.github.io/glide
 
+#### Picasso
 
+http://square.github.io/picasso/
 
-##### Fresco 
+#### Fresco 
 
-https://frescolib.org/docs/
+https://frescolib.org/
+
+---
