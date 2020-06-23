@@ -63,7 +63,7 @@ https://github.com/square/moshi
 
 ---
 
-Others 
+## Others 
 
 #### Chuck (Monitor Device's Http Requests)
 
@@ -85,4 +85,14 @@ https://developer.android.com/training/data-storage/room/
 
 https://github.com/ReactiveX/RxJava
 
+#### Android - Goldfinger (Fingerprint)
 
+https://github.com/infinum/Android-Goldfinger
+
+#### DB Inspector
+
+https://github.com/infinum/android_dbinspector
+
+#### Prince of Versions (In App Update)
+
+https://github.com/infinum/Android-Prince-of-Versions
