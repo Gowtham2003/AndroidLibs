@@ -1,4 +1,4 @@
-# AndroidLibs (In Development)
+# AndroidLibs (Still Updating)
 
 
 ##### Some Famous Libraries That Will Help Your Workflow 
