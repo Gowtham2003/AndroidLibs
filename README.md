@@ -40,3 +40,13 @@ https://square.github.io/okhttp/
 #### Retrofit
 
 https://square.github.io/retrofit/
+
+---
+
+## Animations
+
+#### Lottie
+
+http://airbnb.io/lottie/
+
+---
