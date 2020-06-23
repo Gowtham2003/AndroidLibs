@@ -62,3 +62,27 @@ https://github.com/google/gson
 https://github.com/square/moshi
 
 ---
+
+Others 
+
+#### Chuck (Monitor Device's Http Requests)
+
+https://github.com/jgilfelt/chuck
+
+#### Three Ten (Date And Time Lib)
+
+https://github.com/JakeWharton/ThreeTenABP
+
+#### Timber (Logging)
+
+https://github.com/JakeWharton/timber
+
+#### Room (Data Storage)
+
+https://developer.android.com/training/data-storage/room/
+
+#### ReactiveX - RxJava
+
+https://github.com/ReactiveX/RxJava
+
+
