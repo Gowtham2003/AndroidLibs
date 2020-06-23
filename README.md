@@ -50,3 +50,15 @@ https://square.github.io/retrofit/
 http://airbnb.io/lottie/
 
 ---
+
+## Json
+
+#### Gson
+
+https://github.com/google/gson
+
+#### Moshi
+
+https://github.com/square/moshi
+
+---
