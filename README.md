@@ -31,10 +31,12 @@ https://frescolib.org/
 
 #### Volley
 
-
+https://developer.android.com/training/volley
 
 #### OkHttp
 
-
+https://square.github.io/okhttp/
 
 #### Retrofit
+
+https://square.github.io/retrofit/
